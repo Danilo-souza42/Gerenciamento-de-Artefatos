@@ -1,0 +1,2 @@
+1° Requisito: O sistema deve permitir o cadastro de usuários.
+2° Requisito: O sistema deve gerar relatórios de vendas.
